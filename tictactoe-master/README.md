@@ -29,10 +29,6 @@ This is a very simple and light tic tac toe web game made using HTML, CSS and JS
 * JavaScript
 * CSS
 
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
-
 ### Prerequisites
 There are no special requirements to play this game apart from having a Web Browser which supports HTML5 and CSS3.
 
